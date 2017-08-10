@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 import LoveList from '../../../components/LoveList'
 
 export default class List extends Component{
-
   render() {
     return(
       <div>
@@ -16,9 +15,4 @@ export default class List extends Component{
       </div>
     )
   }
-  // 获取数据
-  componentDidMount() {
-
-  }
-
 }

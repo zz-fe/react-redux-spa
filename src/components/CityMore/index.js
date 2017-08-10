@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import './index.less'
 class CityMore extends Component {
-  constructor() {
-    super()
-  }
   render() {
     const data = ['北京','上海','广州','沈阳','大石桥','营口','三亚','厦门','台湾']
     return (

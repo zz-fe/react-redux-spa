@@ -1,5 +1,5 @@
 import React,{ Component} from 'react';
-import { getAd } from '../../../fetch/home'
+
 import './index.less'
 export default class Ad extends Component{
   render(){

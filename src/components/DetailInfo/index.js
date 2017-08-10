@@ -1,5 +1,4 @@
 import React from 'react'
-import Star from '../../components/star'
 import './index.less'
 
 class DetailInfo extends React.Component {

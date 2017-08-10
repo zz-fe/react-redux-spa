@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
-import { Router } from "react-router";
 import './assets/index.less';
 import { Provider } from 'react-redux';
 import { configStore } from './store';

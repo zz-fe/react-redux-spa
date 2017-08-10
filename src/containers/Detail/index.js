@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {connect} from 'react-redux'
-import {getlovelist} from '../../actions/detailinfo.js'
+import {getlovelist} from '../../actions/detailinfo'
 import Header from '../../components/Header'
 import DetailInfo from '../../components/DetailInfo'
 

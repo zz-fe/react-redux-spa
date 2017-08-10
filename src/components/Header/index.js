@@ -2,9 +2,6 @@ import React, { Component } from "react";
 import './index.less'
 
 class Header extends Component {
-  constructor() {
-    super()
-  }
   render() {
     return (
       <div className='city-header'>

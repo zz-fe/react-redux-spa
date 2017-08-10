@@ -26,6 +26,7 @@ module.exports = {
         historyApiFallback: true, // 不跳转
         inline: true // 实时刷新
     },
+    
     plugins: [
         new HtmlWebpackPlugin({
             template: './src/index.html' // 模版文件

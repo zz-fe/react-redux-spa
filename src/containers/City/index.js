@@ -3,7 +3,7 @@ import localStorage from '../../util/local'
 import Header from '../../components/Header'
 import CityMore from '../../components/CityMore'
 import {CITYNAME} from '../../config/localStoreKey'
-import {update} from '../../actions/userInfo.js'
+import {update} from '../../actions/userInfo'
 import {connect} from 'react-redux'
 import * as actions from '../../actions/userInfo'
 class City extends Component {
