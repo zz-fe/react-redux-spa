@@ -15,3 +15,15 @@
 ```
 npm install
 ```
+
+开发环境
+
+```
+npm run dev
+``` 
+
+本地数据 
+
+```
+npm run mock
+```
