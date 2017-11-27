@@ -10,21 +10,21 @@ webpack2.0 + react-route4.0 + redux + axios + es7 + redux-thunk  + node
   新版的react  完全利用redux 管理项目
 
 ```
-### 启动项目
+启动项目
 ```
   npm install
 ```
-### 项目上线
+ 项目上线
 ```
   npm run build  
   自动生成版本号
 ```
-### 开发环境
+开发环境
 
 ```
   npm run dev
 ```
-### 开启本地服务（获取本地数据）
+开启本地服务（获取本地数据）
 ```
   npm run mock
 ```
